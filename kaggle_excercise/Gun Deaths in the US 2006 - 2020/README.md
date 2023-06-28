@@ -25,3 +25,6 @@ Males experienced significantly higher gun-related deaths compared to females, n
 
 🚨 𝐂𝐨𝐧𝐜𝐥𝐮𝐬𝐢𝐨𝐧:
 This analysis provides insights into gun violence trends, disparities, and implications in the United States. Urgent comprehensive efforts are needed to enhance gun control measures, promote mental health support, address socio-economic factors, and eliminate systemic biases. Leveraging data-driven approaches can help create a safer, more equitable society for all.
+
+
+![Untitled](https://github.com/CharuKes/coding_excercises/assets/130187549/bbe9a75d-bb79-4667-9c39-b20ecf085bbd)
