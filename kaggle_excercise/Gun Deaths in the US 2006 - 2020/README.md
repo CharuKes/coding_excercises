@@ -1,30 +1,94 @@
-👉 𝐈𝐧𝐭𝐫𝐨𝐝𝐮𝐜𝐭𝐢𝐨𝐧:
-This article analyzes gun-related data from kaggle using a jupyter Notebook. It explores trends, disparities, and implications of gun-related deaths by examining factors such as time, education level, age group, race, location, and gender. Insights gained shed light on the complex nature of gun violence in the United States.
+## Gun Deaths in the US: 2006-2020
 
-💻 𝐌𝐞𝐭𝐡𝐨𝐝𝐨𝐥𝐨𝐠𝐲:
-Using a dataset from Kaggle, data manipulations, calculations, and visualizations were performed in a Jupyter Notebook. Python libraries, including pandas and matplotlib, facilitated data processing and graphing. The provided code outlines the steps taken to address research questions and generate results.
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ol>
+</details>
 
-📢 𝐑𝐞𝐬𝐮𝐥𝐭𝐬:
-1.   𝐓𝐫𝐞𝐧𝐝 𝐢𝐧 𝐆𝐮𝐧-𝐑𝐞𝐥𝐚𝐭𝐞𝐝 𝐃𝐞𝐚𝐭𝐡𝐬 (2006-2020):
-Analysis of gun-related deaths from 2006 to 2020 reveals fluctuations and an overall 46.4% increase. Yearly counts varied, with notable spikes during specific periods.
+<!-- ABOUT THE PROJECT -->
+## About The Project
 
-2.   𝐑𝐞𝐥𝐚𝐭𝐢𝐨𝐧𝐬𝐡𝐢𝐩 𝐁𝐞𝐭𝐰𝐞𝐞𝐧 𝐄𝐝𝐮𝐜𝐚𝐭𝐢𝐨𝐧 𝐋𝐞𝐯𝐞𝐥 𝐚𝐧𝐝 𝐆𝐮𝐧-𝐑𝐞𝐥𝐚𝐭𝐞𝐝 𝐃𝐞𝐚𝐭𝐡𝐬:
-Those with a high school diploma or GED had the highest rates of suicide and homicide. Intent counts were highest for individuals with a GED and lowest for those with a BA+ degree, suggesting education's influence on intent.
+This project analyzes gun-related data using a jupyter Notebook. It explores trends, disparities, and implications of gun-related deaths by examining factors such as time, education level, age group, race, location, and gender. Insights gained shed light on the complex nature of gun violence in the United States. This contains a [.ipynb file](https://github.com/CharuKes/finalCapstone/blob/main/other_projects/gun_deaths_in_the_US_2006-2020/gun-deaths-in-the-us-2006-2020.ipynb) and
+dataset can be found [here](https://www.kaggle.com/code/charukesharwani/gun-deaths-in-the-us-2006-2020/input).
 
-3.   𝐀𝐠𝐞 𝐆𝐫𝐨𝐮𝐩 𝐰𝐢𝐭𝐡 𝐇𝐢𝐠𝐡𝐞𝐬𝐭 𝐒𝐮𝐢𝐜𝐢𝐝𝐞 𝐑𝐚𝐭𝐞:
-The (50, 60] age group exhibits the highest number of suicides, emphasizing the need for targeted interventions and support systems.
+### Built With
 
-4.   𝐇𝐨𝐦𝐢𝐜𝐢𝐝𝐞𝐬 𝐁𝐚𝐬𝐞𝐝 𝐨𝐧 𝐑𝐚𝐜𝐢𝐚𝐥 𝐏𝐫𝐨𝐟𝐢𝐥𝐢𝐧𝐠:
-Black individuals experienced the highest reported homicides, followed by White, Hispanic, Asian/Pacific Islander, and Native American/Native Alaskan populations. Addressing systemic biases is crucial for equality in safety.
+* Jupyter lab
 
-5.   𝐋𝐨𝐜𝐚𝐭𝐢𝐨𝐧𝐬 𝐏𝐫𝐨𝐧𝐞 𝐭𝐨 𝐆𝐮𝐧-𝐑𝐞𝐥𝐚𝐭𝐞𝐝 𝐃𝐞𝐚𝐭𝐡𝐬:
-Homes had the highest number of gun-related deaths, followed by other specified/unspecified locations. Trade/service areas, schools/institutions, farms, and industrial/construction areas had lower occurrences.
+<!-- GETTING STARTED -->
+## Getting Started
 
-6.   𝐆𝐞𝐧𝐝𝐞𝐫-𝐁𝐚𝐬𝐞𝐝 𝐃𝐢𝐬𝐩𝐚𝐫𝐢𝐭𝐢𝐞𝐬 𝐢𝐧 𝐆𝐮𝐧-𝐑𝐞𝐥𝐚𝐭𝐞𝐝 𝐃𝐞𝐚𝐭𝐡𝐬:
-Males experienced significantly higher gun-related deaths compared to females, necessitating targeted strategies for reducing violence and improving safety.
+This is an example of how you may give instructions on setting up your project locally.
+To get a local copy up and running follow these simple example steps.
 
-🚨 𝐂𝐨𝐧𝐜𝐥𝐮𝐬𝐢𝐨𝐧:
-This analysis provides insights into gun violence trends, disparities, and implications in the United States. Urgent comprehensive efforts are needed to enhance gun control measures, promote mental health support, address socio-economic factors, and eliminate systemic biases. Leveraging data-driven approaches can help create a safer, more equitable society for all.
+### Prerequisites
+
+This is an example of how to list things you need to use the software and how to install them.
+* npm
+  ```sh
+  npm install npm@latest -g
+  ```
+
+### Installation
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/CharuKes/finalCapstone.git
+   ```
+2. Install python
+   go to: https://www.python.org/downloads/
+   download and install
+3. Install matplotlib packages
+   ```sh
+   py -m pip install -U matplotlib
+   ```
+4. Install pandas packages
+   ```sh
+   py -m pip install pandas
+   ```
+5. Install numpy packages
+   ```sh
+   py -m pip install numpy
+   ```
+6. Download the .ipynb and .csv files from this repository
+7. Run the files   
+
+Note: The project was created and executed using JupyterLab, and it can be run either from JupyterLab or Jupyter Notebook.
 
 
-![Untitled](https://github.com/CharuKes/coding_excercises/assets/130187549/bbe9a75d-bb79-4667-9c39-b20ecf085bbd)
+
+
+<!-- USAGE EXAMPLES -->
+## Usage
+
+Once the files have been downloaded run them with Jupyter lab or your preferred choice of program to run .ipynb files.
+Running with Jupyter lab one can see the analysis report generated by this project.
+Below are some examples of what the code should reproduce:
+
+
+![Screenshot1](https://github.com/CharuKes/finalCapstone/assets/130187549/83fb4894-8273-4285-a2d4-8a6b147d8cf7)
+
+
+<!-- CONTACT -->
+## Contact
+
+Charu Kesarwani - thecharukesharwani@gmail.com
+
+Project Link: [Gun Deaths in The US 2006-2020](https://github.com/CharuKes/finalCapstone/tree/main/other_projects/gun_deaths_in_the_US_2006-2020)
