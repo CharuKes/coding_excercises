@@ -38,6 +38,16 @@ To get a local copy up and running follow these simple example steps.
 
 When the program is executed, it will present the user with two options: 'investment' or 'bond'. The user can select the desired option by entering either 'investment' or 'bond' from the menu.
 
+<div align="center">
+
+![image](https://github.com/CharuKes/finalCapstone/assets/130187549/495650a3-44ce-4ecc-af9b-cb25231f0e45)
+
+
+Project in action - Bond repayment calculation</br>
+</div>
+
+
+
 ### Investment Calculation
 
 If the user selects 'investment', they will be prompted to enter the following information:
@@ -62,6 +72,15 @@ The program will calculate the monthly bond repayment amount based on the provid
 ### Error Handling
 
 The program includes error handling to ensure that the user enters valid input. If the user enters negative values or invalid input, they will be prompted to re-enter the correct information.
+<div align="center">
+
+
+![1JPG](https://github.com/CharuKes/finalCapstone/assets/130187549/277e7a4a-ea0c-4244-a365-4a3352767dd7)
+
+
+Project in action - Error handeling</br>
+</div>
+
 
 ## Contributions
 
