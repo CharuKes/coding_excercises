@@ -23,6 +23,16 @@ After installing the ForestQuery project, you can use it to explore and analyze 
 ### Global Situation
 The world's total forest area in 1990 was 41,282,694.90 km<sup>2</sup>. By 2016, this number had decreased to 39,958,245.90 km<sup>2</sup>, resulting in a loss of 1,324,449.00 km<sup>2</sup> or 3.23%. The forest area lost during this time period is slightly larger than the entire land area of Peru listed for 2016 (1,279,999.99 km<sup>2</sup>).
 
+<div align="center">
+
+![image](https://github.com/CharuKes/finalCapstone/assets/130187549/d557fe61-9769-495d-8228-6ef16c0a49f0)
+
+
+Project in action - Total forest area of world in 2016</br>
+</div>
+
+
+
 ### Regional Outlook
 In 2016, the percentage of the world's total land area designated as forest was 31.38%. The region with the highest relative forestation was Latin America & Caribbean, with 46.16%, while the region with the lowest relative forestation was Middle East & North Africa, with 2.07% forestation. In 1990, Latin America & Caribbean also had the highest relative forestation with 51.03%, while Middle East & North Africa had the lowest with 1.78% forestation.
 
