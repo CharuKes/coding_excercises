@@ -34,7 +34,7 @@ The analysis is performed using various tools and technologies, including:
 To replicate the analysis or explore the dataset further, follow these steps:
 
 1. Clone this repository to your local machine.
-2. Open the Tableau visualizations in the `visualizations/` directory to interact with the charts and gain insights.
+2. Open the Tableau visualizations in the [visualizations](https://public.tableau.com/app/profile/charu.kesarwani3927/viz/SuperstoreSalesAnalysis_16885792990290/SuperstoreSalesAnalysis?publish=yes) directory to interact with the charts and gain insights.
 
 Feel free to explore the code, modify it according to your requirements, and contribute to the project.
 
