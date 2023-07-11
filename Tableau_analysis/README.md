@@ -6,7 +6,7 @@ This repository contains the Superstore dataset, which is a fictional dataset re
 
 The dataset includes information on various aspects of the sales, such as product category, sales region, customer details, order details, and financial metrics. It provides a comprehensive view of the company's performance and offers opportunities for in-depth analysis.
 
-## Analysis
+## Analysis 
 
 The analysis of the Superstore data includes:
 
