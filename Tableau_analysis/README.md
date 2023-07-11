@@ -2,7 +2,7 @@
 
 This repository contains the Superstore dataset, which is a fictional dataset representing sales data for a retail company. The purpose of this project is to analyze the sales data and derive valuable insights to inform business strategies and decision-making.
 
-## Dataset
+## Dataset 
 
 The dataset includes information on various aspects of the sales, such as product category, sales region, customer details, order details, and financial metrics. It provides a comprehensive view of the company's performance and offers opportunities for in-depth analysis.
 
