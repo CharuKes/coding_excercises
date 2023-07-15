@@ -1,6 +1,6 @@
 ## Gun Deaths in the US: 2006-2020
 
-<!-- TABLE OF CONTENTS -->
+<!-- TABLE OF CONTENTS --> 
 <details>
   <summary>Table of Contents</summary>
   <ol>
