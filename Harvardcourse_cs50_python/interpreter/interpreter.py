@@ -1,4 +1,4 @@
 import math
-a = input("enter your equation:")
-result = eval(f"{a}")
+user_input = input("Enter your equation:")
+result = eval(f"{user_input}")
 print(float(result))
