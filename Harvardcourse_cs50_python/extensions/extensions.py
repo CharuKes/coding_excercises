@@ -17,3 +17,21 @@ elif item == "zip":
     print("application/zip")
 else:
     print("application/octet-stream")
+
+#OR
+
+media_type = {
+        "gif": "image/gif",
+        "jpg": "image/jpeg",
+        "jpeg": "image/jpeg",
+        "png": "image/png",
+        "pdf": "application/pdf",
+        "txt": "text/plain",
+        "zip": "application/zip"
+    }
+file_suffix = input("enter: ").split('.')[-1]
+
+if file_suffix in media_type:
+    print(media_type[file_suffix])
+else:
+    print("application/octet-stream")
