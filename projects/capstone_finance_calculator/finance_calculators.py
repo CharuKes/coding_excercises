@@ -3,7 +3,7 @@ import math
 # Created variable name user_input to show user the choices and ask user for input that they want to be calculated
 while True:    # Using while loop to loop over user_input, if user_input is not correct
     user_input = input('\n'"Please select an option" "\n" "\n"
-                       "investment - to calculate the amount of interest you'll earn on your investment" "\n"
+                       "investment - to calculate the amount of interest you'll earn on your investment" "\n" 
                        "bond - to calculate the amount you'll have to pay on a home loan" "\n" "\n"
 
                        "Enter either 'investment' or 'bond' from the menu above to proceed:")
